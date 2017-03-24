@@ -1,0 +1,6 @@
+Bottle v0.12.13 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:3000/
+Hit Ctrl-C to quit.
+
+10.0.2.2 - - [24/Mar/2017 01:18:13] "GET / HTTP/1.1" 200 5404
+10.0.2.2 - - [24/Mar/2017 01:18:22] "GET /getData/month HTTP/1.1" 200 788968
